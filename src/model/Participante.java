@@ -16,5 +16,5 @@ public class Participante {
     public String getNome() { return nome; }
     public String getCpf() { return cpf; }
     public String getEmail() { return email; }
-    public String getCurso() { return curso; } // <-- ESSE AQUI É O QUE ESTÁ FALTANDO
+    public String getCurso() { return curso; }
 }
