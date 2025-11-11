@@ -16,3 +16,4 @@ public class Minicurso extends Evento {
     public List<Instrutor> getInstrutores() { return instrutores; }
     public List<String> getMateriais() { return materiais; }
 }
+//

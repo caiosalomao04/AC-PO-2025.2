@@ -15,3 +15,4 @@ public class Seminario extends Evento {
 
     public String getTema() { return tema; }
 }
+//

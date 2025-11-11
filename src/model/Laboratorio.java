@@ -13,3 +13,4 @@ public class Laboratorio extends Local {
     public int getComputadores() { return computadores; }
     public String getTipo() { return tipo; }
 }
+//

@@ -15,3 +15,4 @@ public class Palestra extends Evento {
 
     public String getPalestrante() { return palestrante; }
 }
+//

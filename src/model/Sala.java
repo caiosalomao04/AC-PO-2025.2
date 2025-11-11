@@ -13,3 +13,4 @@ public class Sala extends Local {
     public int getNumero() { return numero; }
     public boolean isTemMultimidia() { return temMultimidia; }
 }
+//

@@ -15,3 +15,4 @@ public abstract class Local {
     public int getCapacidade() { return capacidade; }
     public String getBloco() { return bloco; }
 }
+//

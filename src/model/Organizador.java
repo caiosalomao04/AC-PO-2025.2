@@ -10,3 +10,4 @@ public class Organizador extends PessoaResponsavel {
 
     public String getFuncao() { return funcao; }
 }
+//

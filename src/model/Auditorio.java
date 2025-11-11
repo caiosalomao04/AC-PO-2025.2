@@ -13,3 +13,4 @@ public class Auditorio extends Local {
     public boolean hasSom() { return som; }
     public boolean hasTraducao() { return traducao; }
 }
+//

@@ -13,3 +13,4 @@ public class Instrutor extends PessoaResponsavel {
     public String getFormacao() { return formacao; }
     public String getArea() { return area; }
 }
+//
