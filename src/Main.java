@@ -14,7 +14,7 @@ public class Main {
         Instrutor profAna = new Instrutor("Ana Paula", "ana@uni.edu", "Mestre em Computação", "IA");
         Instrutor profJoao = new Instrutor("João Mendes", "joao@uni.edu", "Doutor em Redes", "Segurança da Informação");
 
-        // Organizadores (faltantes)
+        // Organizadores
         Organizador org1 = new Organizador("Bruno Silva", "bruno@uni.edu", "Coordenador Geral");
         Organizador org2 = new Organizador("Paula Nunes", "paula@uni.edu", "Responsável por inscrições");
 
